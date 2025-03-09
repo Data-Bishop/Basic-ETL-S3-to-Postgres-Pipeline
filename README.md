@@ -1,5 +1,7 @@
 # Basic ETL S3 to Postgresql Pipeline
 
+![Architecture Diagram](./Basic%20ETL%20S3%20to%20Postgresql%20Pipeline%20Architecture.drawio.png)
+
 This project is a basic ETL (Extract, Transform, Load) pipeline that extracts data from an S3 bucket, processes it using Pandas, and loads it into a PostgreSQL database.
 
 ## Setup
